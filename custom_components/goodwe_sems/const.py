@@ -1,0 +1,1 @@
+DOMAIN = "goodwe_sems"

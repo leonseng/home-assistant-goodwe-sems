@@ -1,0 +1,13 @@
+{
+  "domain": "goodwe_sems",
+  "name": "Goodwe SEMS",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/leonseng/home-assistant-goodwe-sems/",
+  "iot_class": "local_polling",
+  "requirements": [
+    "requests"
+  ],
+  "version": "0.1.0",
+  "config_flow": true
+}
